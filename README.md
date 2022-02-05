@@ -1,2 +1,0 @@
-# BinGoo
-Tools Auto Dorking
